@@ -124,6 +124,6 @@ Power BI dashboards can be shared through Power BI Service, enabling collaborati
 ________________________________________
 
 “Explain your Power BI project”
-Say:
+
 I imported a sales dataset into Power BI, cleaned it using Power Query, created KPIs using DAX such as total sales and profit, and built an interactive dashboard with charts and slicers to analyze sales performance across categories, regions, and time.
 
